@@ -120,8 +120,8 @@ async function enrollStudent () {
             message: "Select courses to enroll",
             choices: ["Typescript", "Javascript", "Python", "CSS", "HTML", "Nextjs"]
         })
-        student.enrollCourse(userInput.course)
-        console.log(`Successfully Enrolled in Course: ${userInput.course}`);
+        student.enrollCourse(userInput.courses)
+        console.log(`Successfully Enrolled in Course: ${userInput.courses}`);
     }
 }
 

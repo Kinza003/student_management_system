@@ -1,5 +1,5 @@
 {
-  "name": "kinza-student_management_system",
+  "name": "kinza-cli_student_management_system",
   "version": "1.0.0",
   "description": "\"CLI based student management system using typescript, nodejs and inquirer\"",
   "main": "index.js",
