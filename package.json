@@ -1,0 +1,19 @@
+{
+  "name": "kinza-student_management_system",
+  "version": "1.0.0",
+  "description": "\"CLI based student management system using typescript, nodejs and inquirer\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Kinza\"",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.6"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
